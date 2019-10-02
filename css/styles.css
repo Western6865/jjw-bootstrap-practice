@@ -1,0 +1,11 @@
+.jumbotron {
+    height: 400px;
+    background-color:cornflowerblue;
+    text-align: center;
+}
+.container .jumbotron {
+    border-radius: 0 !important;
+}
+.well {
+    margin: 20px;
+}
